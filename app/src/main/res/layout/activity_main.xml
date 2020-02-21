@@ -22,14 +22,15 @@
         </androidx.appcompat.widget.Toolbar>
     </LinearLayout>
 
-
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/navigation_view"
+        style="@style/Widget.Custom.NavigationView"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:clipToPadding="false"
         app:menu="@menu/main_menu"
+        app:headerLayout="@layout/nav_header_main"
         />
 
 </androidx.drawerlayout.widget.DrawerLayout>

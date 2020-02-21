@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

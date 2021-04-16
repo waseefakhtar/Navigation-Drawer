@@ -1,9 +1,9 @@
 # Android Material Component: Navigation Drawer Styling
 
 ## Tutorial:
-Part I: https://proandroiddev.com/easy-approach-to-navigation-drawer-7fe87d8fd7e7 </br>
-Part II: https://proandroiddev.com/navigation-drawer-styling-36d330068b81 </br>
-Part III: https://proandroiddev.com/navigation-drawer-styling-734d4adbc151 </br>
+Part I: https://www.waseefakhtar.com/android/easy-approach-to-navigation-drawer/ </br>
+Part II: https://www.waseefakhtar.com/android/android-material-component-navigation-drawer-styling-part-ii/ </br>
+Part III: https://www.waseefakhtar.com/android/android-material-component-navigation-drawer-styling-part-iii/ </br>
 
 ### Screenshots
 
